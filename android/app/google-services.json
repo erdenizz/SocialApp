@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835109907498",
+    "firebase_url": "https://fir-deneme-e9451.firebaseio.com",
+    "project_id": "fir-deneme-e9451",
+    "storage_bucket": "fir-deneme-e9451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835109907498:android:850d902b8a367e7f62a753",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835109907498-4npvffdpc3k0fcglu53nrenmfobojd9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAjDyQ4b0u2v_LLsbJgdgE1BUgzIyyz-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835109907498-4npvffdpc3k0fcglu53nrenmfobojd9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
